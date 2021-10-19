@@ -1,0 +1,11 @@
+.cache/
+.mozilla/
+.pki/
+.ssh/
+.vscode-server/
+.bash_history/
+.bash_logout/
+.bash_profile/
+.bashrc/
+.bashrc.rpmnew/
+.emacs/
